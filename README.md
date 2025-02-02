@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - 🔹 DevOps Enthusiast | Linux Administrator | Cloud Learner  
 - 🔹 Passionate about automation, CI/CD, Kubernetes, and infrastructure as code  
-- 🔹 Currently working on DevOps projects  
 
 ---
 
